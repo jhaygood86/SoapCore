@@ -251,3 +251,7 @@ paket-files/
 .idea/
 *.sln.iml
 **/BenchmarkDotNet.Artifacts/
+
+# Videa Specific Files
+nuget-pack.cmd
+nuget-push.cmd
